@@ -1,4 +1,4 @@
-package com.banking.CustomerMs;
+package com.example.CustomerMs;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

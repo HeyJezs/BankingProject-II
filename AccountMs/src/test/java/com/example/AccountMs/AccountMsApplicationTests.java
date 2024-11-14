@@ -1,4 +1,4 @@
-package com.banking.AccountMs;
+package com.example.AccountMs;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
